@@ -1,0 +1,44 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+body{
+    background-color: #F0CECE;
+}
+#headbuttons{
+    float: left;
+}
+#logo{
+    float: right;
+}
+input{
+    font-size: 20px;
+    border: none;
+    margin: 5px;
+    padding: 7px;
+    cursor: pointer;
+}
+#donate{
+    background-color:#3BD100;
+    color:white;
+}
+#adopt{
+    background-color:#CD0046;
+    color:white;
+}
+#join{
+    background-color:#0077CD;
+    color:white;
+}
+.center{
+    text-align: center;
+}
+.head{
+    font-size: 18px;
+    font-weight: bold;
+}
+a{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
